@@ -16,6 +16,7 @@
 		1F6F695424997469003EF5B8 /* DeployTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6F695324997469003EF5B8 /* DeployTestTests.swift */; };
 		1F6F695F24997469003EF5B8 /* DeployTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6F695E24997469003EF5B8 /* DeployTestUITests.swift */; };
 		87D9673A249C16B1006B1408 /* Seth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D96739249C16B1006B1408 /* Seth.swift */; };
+		87D9673C249C16D0006B1408 /* Jim.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87D9673B249C16D0006B1408 /* Jim.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		1F6F695E24997469003EF5B8 /* DeployTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeployTestUITests.swift; sourceTree = "<group>"; };
 		1F6F696024997469003EF5B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		87D96739249C16B1006B1408 /* Seth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Seth.swift; sourceTree = "<group>"; };
+		87D9673B249C16D0006B1408 /* Jim.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Jim.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		1F6F693024997467003EF5B8 = {
 			isa = PBXGroup;
 			children = (
+				87D9673B249C16D0006B1408 /* Jim.swift */,
 				1F6F693B24997467003EF5B8 /* DeployTest */,
 				1F6F695224997469003EF5B8 /* DeployTestTests */,
 				1F6F695D24997469003EF5B8 /* DeployTestUITests */,
@@ -266,6 +269,7 @@
 				87D9673A249C16B1006B1408 /* Seth.swift in Sources */,
 				1F6F693D24997467003EF5B8 /* AppDelegate.swift in Sources */,
 				1F6F693F24997467003EF5B8 /* SceneDelegate.swift in Sources */,
+				87D9673C249C16D0006B1408 /* Jim.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
